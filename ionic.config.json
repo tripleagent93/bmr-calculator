@@ -1,0 +1,7 @@
+{
+  "name": "bmr-calculator",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
